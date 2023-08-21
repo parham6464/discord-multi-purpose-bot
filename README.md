@@ -4,7 +4,7 @@
 -you can change welcomer setting a litlle bit to fix much more but its up to you
 
 # bot options:
--vote bot\
+-__vote bot__\
 -dropdown selection role\
 -welcomer\
 -welcome verification\
@@ -24,7 +24,7 @@
 -punishment roles\
 -custom assing role\
 -embed post generator\
--purge command\
+-purge command
 
 # lisence:
 -you are not allowed to share this source without source
