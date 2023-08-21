@@ -5,26 +5,26 @@
 
 # bot options:
 -__vote bot__\
--dropdown selection role\
--welcomer\
--welcome verification\
--global error handling\
--Hafez poem generator\
--password generator\
--joke generator\
--short story generator\
--did you know generator\
--confession generator\
--spiriual sentences generator\
--ping web\
--random movie dialog generator\
--usd live price\
--phishing gateway detector\
--font generator\
--punishment roles\
--custom assing role\
--embed post generator\
--purge command
+-__dropdown selection role__\
+-__welcomer__\
+-__welcome verification__\
+-__global error handling__\
+-__Hafez poem generator__\
+-__password generator__\
+-__joke generator__\
+-__short story generator__\
+-__did you know generator__\
+-__confession generator__\
+-__spiriual sentences generator__\
+-__ping web__\
+-__random movie dialog generator__\
+-__usd live price__\
+-__phishing gateway detector__\
+-__font generator__\
+-__punishment roles__\
+-__custom assign role__\
+-__embed post generator__\
+-__purge command__
 
 # lisence:
--you are not allowed to share this source without source
+-__you are not allowed to share this source without resouce__
